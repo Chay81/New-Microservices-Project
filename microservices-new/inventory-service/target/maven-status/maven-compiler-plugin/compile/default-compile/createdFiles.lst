@@ -1,0 +1,7 @@
+com\chay\inventory\service\service\InventoryService.class
+com\chay\inventory\service\Dto\InventoryResponse$InventoryResponseBuilder.class
+com\chay\inventory\service\model\Inventory.class
+com\chay\inventory\service\Dto\InventoryResponse.class
+com\chay\inventory\service\controller\InventoryController.class
+com\chay\inventory\service\repository\InventoryRepository.class
+com\chay\inventory\service\InventoryServiceApplication.class
